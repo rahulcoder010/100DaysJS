@@ -1,2 +1,1 @@
-# 100DaysJS
-100 Days to JS Master
+Please clarify which files need to be updated with the provided 300 words for Python.
